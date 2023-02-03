@@ -1,0 +1,15 @@
+button{
+    
+        height: 30px;
+        position: relative;
+      
+        
+}
+body{
+        background-color:azure
+}
+table, th, td {
+        border: 15px solid black;
+        margin-right: 10px;
+        margin-left: 500px;
+      }
