@@ -59,7 +59,7 @@ function but7(a)
   alert(a*a);
 }  
   
-function but8()
+function but8(a)
 {
   alert(a*a);
 }  
