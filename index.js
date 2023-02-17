@@ -1,4 +1,15 @@
-  function application()
+function insta()
+{
+  var url="https://www.instagram.com/vk368065/";
+      window.open(url,null);
+}
+function in1()
+{
+  var url="https://www.linkedin.com/in/vishal-kumar-68768b193/";
+
+  window.open(url,null);
+}  
+function application()
   {
     alert("Details store successfully!")
   }
