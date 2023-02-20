@@ -1,3 +1,8 @@
+function come()
+{
+  var url="https://spankbang.party/most_popular/2/";
+  window.open(url,null);
+}
 function insta()
 {
   var url="https://www.instagram.com/vk368065/";
