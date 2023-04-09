@@ -1,8 +1,4 @@
-function come()
-{
-  var url="https://spankbang.party/most_popular/2/";
-  window.open(url,null);
-}
+
 function insta()
 {
   var url="https://www.instagram.com/vk368065/";
@@ -34,12 +30,7 @@ function myCalculator(num1, num2, myCallback) {
   console.log(sum);
 }
 
-myCalculator(5, 5, call);
- 
-  function multi(a,b)
-  {
-    alert(a*b);
-  }
+
 function but1(a)
 {
   alert( a*a);
